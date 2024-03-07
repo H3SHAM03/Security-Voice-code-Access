@@ -63,7 +63,7 @@ For developers interested in contributing or extending the functionality:
 
 ### Contributors
 
-- Abdulrahman Hesham
+- AbdelRahman Hesham
 - Shehap Elhadary
 - Mohamed Ibrahim
 
